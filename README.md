@@ -35,3 +35,28 @@ Finally, the dashboard was created by inserting and customizing the pivot charts
 
 Below is a snippet of the final dashboard in Excel.
 <img width="1362" height="665" alt="Image" src="https://github.com/user-attachments/assets/930ecbd8-ddf9-4711-b756-0d916ecafd5c" />
+## Key Insights
+📈 Total Casualties Analysis: The dashboard reveals that a staggering 417,883 casualties occurred after accidents during the two-year period
+
+📅 Peak Months: Overall the number of casulaties were slightly higher in 2021 than 2022. Maximum Casualties happened in the month of October and November in both the Years and minimum casualties take place in the month of January and February.
+
+🚗 Casualties by Vehicle Type: Car accidents accounted for the highest number of casualties, contributing to 79.8% of the total. On the other hand, casualties were minimal in accidents involving other vehicle types.
+
+🩸 Casualties by accident severity Slight severity form the bulk of casualties 84.1% whereas there are only 1.7% Fatal severity casualties.
+
+🛣️ Road Type Analysis: Maximum Casualties by Single Carriageway road type (310.1K) and Minimum by Slip road(5.1K)
+
+🌧️ Casualties Distribution by Road Surface: Highest Distribution of total casualties on Dry road surfaces (67%)
+
+🏙️ Casualties Relation by Area/Location Urban areas form the majority of casualties after an accident (61%)
+
+☀️ Casualties Distribution by light condtion: 73% of casulties take place in daylight condtion
+
+## Recommendations based on the Analysis
+1) By comparing casualty trends between the current and previous years on a monthly basis, the dashboard identifies critical periods of October and November. The road safety measure by the traffic police and other stakeholders must be active and focused during these high-risk periods.
+2) Car drivers form bulk of the casualties so they must be targeted for awareness camps and strict monitoring, periodic check-ups on safe driving.
+3) Extra safety measures should be placed Single Carriageway roads and they must be upgraded to double lane wherever possible.
+4) Understanding casualty distribution based on different road surface conditions helps pinpoint areas where road maintenance and surface improvements are essential.
+5) Urban areas should be targeted for interventions to improve road safety in specific and during daytime.
+## End
+This Road Accident Analytics Dashboard opens the door to data-driven decision-making, enabling stakeholders to implement evidence-based interventions that enhance road safety. It serves as a valuable tool for policymakers, traffic authorities, and safety advocates alike.
