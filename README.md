@@ -30,3 +30,8 @@ Created a "Data Analysis" sheet to summarize all the pivot table Data for a new 
 
 Below is a snippet of the Data Analysis Sheet
 <img width="1147" height="621" alt="Image" src="https://github.com/user-attachments/assets/6516a8bf-6a64-4350-8fbd-485e744f8519" />
+## Data Visualization
+Finally, the dashboard was created by inserting and customizing the pivot charts of corresponding pivot table. For user friendly and interactive experience slicers and timelines were incorporated. Hyperlinks and connections were also added to necessary icons for seamless navigation.
+
+Below is a snippet of the final dashboard in Excel.
+
