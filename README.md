@@ -29,3 +29,4 @@ This stage began with getting to know the dataset and checking for any data qual
 Created a "Data Analysis" sheet to summarize all the pivot table Data for a new user or developer or client to ease their work and gathered information. On this sheet nine pivot tables were created to summarise the data and help identify trends in the dataset focusing on relationship between number of casualties and many factors such as- casualty type, vehicle type, road type, location etc. Monthly trends were also analysed for the years 2021 and 2022.
 
 Below is a snippet of the Data Analysis Sheet
+<img width="1147" height="621" alt="Image" src="https://github.com/user-attachments/assets/6516a8bf-6a64-4350-8fbd-485e744f8519" />
